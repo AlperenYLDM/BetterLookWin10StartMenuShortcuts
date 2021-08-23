@@ -42,6 +42,12 @@ Windows10 başlat menüsündeki klasik kısayollardan sıkıldın mı? İşte ta
 ## Rockstar Games Launcher
 `iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JEsfs'))`
 
+## Ryzen Master
+`iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JEsmk'))`
+
+## Spotify
+`iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JEsmY'))`
+
 ## Steam
 `iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JEsJk'))`
 
