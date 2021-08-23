@@ -29,3 +29,27 @@ Windows10 başlat menüsündeki klasik kısayollardan sıkıldın mı? İşte ta
 
 ## Geforce NOW
 `iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JE3Nv'))`
+
+## HWMonitor
+`iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JE3j6'))`
+
+## Origin
+`iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JEseG'))`
+
+## Radeon Software
+`iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JEsve'))`
+
+## Rockstar Games Launcher
+`iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JEsfs'))`
+
+## Steam
+`iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JEsJk'))`
+
+## Valorant
+`iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JEsIT'))`
+
+## Visual Studio Code
+`iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JEstB'))`
+
+## Witcher 3
+`iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JEsqn'))`
