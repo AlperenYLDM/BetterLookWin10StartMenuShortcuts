@@ -1,0 +1,1 @@
+# BetterLookWin10StartMenuShortcuts
