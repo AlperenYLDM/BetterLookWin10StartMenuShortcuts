@@ -27,5 +27,5 @@ Windows10 başlat menünüzdeki klasik kısayollardan sıkıldınız mı? İşte
 ## Euro Truck Simulator 2
 `iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JE3FX'))`
 
-##Geforce NOW
+## Geforce NOW
 `iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JE3Nv'))`
